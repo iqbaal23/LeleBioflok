@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_kolam"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_kolam" />
+
+    <item
+        android:id="@+id/navigation_todo"
+        android:icon="@drawable/ic_todo"
+        android:title="@string/title_todo" />
+
+</menu>

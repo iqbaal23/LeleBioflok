@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LeleBioflok</string>
+    <string name="title_home">Home</string>
+    <string name="title_kolam">Kolam</string>
+    <string name="title_todo">ToDo</string>
+    <string name="title_kalender">Kalender</string>
+    <string name="title_activity_isi_kolam">IsiKolam</string>
+    <string name="title_activity_tambah_kolam">TambahKolam</string>
+    <string name="title_activity_to_do">ToDo</string>
+    <string name="title_activity_update_isi_kolam">UpdateIsiKolam</string>
+    <string name="title_activity_update_kolam">UpdateKolam</string>
+</resources>
